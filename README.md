@@ -44,12 +44,3 @@ I am a Frontend Developer from Ghana.
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guytito&theme=dark&background=000000)](https://git.io/streak-stats)
-
----
-
-
-### ✍️ Some Projects : 
-- [Interactive Comments Section](https://interactive-comments-fm.netlify.app/)
-- [E-commerce Product Page](https://product-page-fm.netlify.app/)
-- [Crowdfunding Page](http://crowdfund-fm.netlify.app/)
-

@@ -18,7 +18,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Frontend Developer from Ghana.
+I am a Frontend Developer.
 
 - 🔭 I like to solve problems and make life easier.👍
 - 🌱 I enjoy building responsive web projects from modern designs.

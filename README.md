@@ -41,6 +41,3 @@ I am a Frontend Developer.
 </p>
 
 ---
-
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guytito&theme=dark&background=000000)](https://git.io/streak-stats)
